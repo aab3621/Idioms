@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+	<app>     
+		<name>coran karim</name>
+		<description>القرآن الكريم بصورة تفاعلية ميسرة</description>
+		<package>com.geekland.holyquran.main</package>
+		<icon>do3a2_1.png</icon>
+	</app>
+	<app>     
+		<name>دعاء مستجاب</name>
+		<description>أدعية مستجابة مختارة من القران الكريم و السنة النبوية</description>
+		<package>com.geekland.do3ae.mostajab</package>
+		<icon>do3a2_2.png</icon>
+	</app>
+	<app>     
+		<name>الرقية الشرعية (بدون أنترنت)</name>
+		<description>الرقية الشرعية كاملة مكتوبة، تقى وتشفى من الامراض باذن الله تعالى</description>
+		<package>com.geekland.alroqya.char3iya</package>
+		<icon>roqya.png</icon>
+	</app>
+	<app>     
+		<name>دعاء رمضان 2015</name>
+		<description>موسوعة من الأدعية الصحيحة التي تذكر في رمضان</description>
+		<package>com.geekland.do3ae.ramadan</package>
+		<icon>ramadan.png</icon>
+	</app>
+	
+</apps>
